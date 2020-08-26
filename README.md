@@ -1,2 +1,2 @@
 # BasesDatos_adiazcr
-![](Imagen/TABLA.png)
+![](Imagen/TABLA.jpeg)
